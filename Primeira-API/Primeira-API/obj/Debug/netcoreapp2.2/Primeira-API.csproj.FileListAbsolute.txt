@@ -1,0 +1,16 @@
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.csprojAssemblyReference.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.RazorAssemblyInfo.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.RazorAssemblyInfo.cs
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.AssemblyInfoInputs.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.AssemblyInfo.cs
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/appsettings.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/Primeira-API.deps.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/Primeira-API.runtimeconfig.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/Primeira-API.runtimeconfig.dev.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/Primeira-API.dll
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/bin/Debug/netcoreapp2.2/Primeira-API.pdb
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.RazorTargetAssemblyInfo.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.dll
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/aula-3S-20192S/Primeira-API/Primeira-API/obj/Debug/netcoreapp2.2/Primeira-API.pdb
